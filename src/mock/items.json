@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "material": "AL33R-TR75-2440mmx1220mm",
+    "requestedQuantity": "10",
+    "scheduledQuantity": "10",
+    "confirmedQuantity": "--",
+    "extraQuantity": "--",
+    "uom": "Pieces",
+    "timestamp": "31st, Jan 2026 10:20 am",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "material": "IH-Paint-SDP_AD52_Test",
+    "requestedQuantity": "04",
+    "scheduledQuantity": "04",
+    "confirmedQuantity": "--",
+    "extraQuantity": "--",
+    "uom": "Liter",
+    "timestamp": "31st, Jan 2026 11:00 am",
+    "status": "Pending"
+  }
+]

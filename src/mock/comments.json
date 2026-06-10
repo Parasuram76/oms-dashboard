@@ -1,0 +1,14 @@
+[
+  {
+    "id": "comment-1",
+    "author": "Ahdityaa Enterprises",
+    "text": "Requesting prompt delivery processing. The items are needed on site by mid-February.",
+    "timestamp": "31st, Jan 2026 11:30 am"
+  },
+  {
+    "id": "comment-2",
+    "author": "System Administrator",
+    "text": "Sales order successfully mapped to Production order PO-1120.",
+    "timestamp": "31st, Jan 2026 11:02 am"
+  }
+]

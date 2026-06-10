@@ -1,0 +1,23 @@
+[
+  {
+    "id": "doc-1",
+    "name": "Invoice.pdf",
+    "size": "2.4 MB",
+    "type": "PDF",
+    "date": "31st, Jan 2026"
+  },
+  {
+    "id": "doc-2",
+    "name": "Quotation.pdf",
+    "size": "1.1 MB",
+    "type": "PDF",
+    "date": "30th, Jan 2026"
+  },
+  {
+    "id": "doc-3",
+    "name": "DeliveryNote.pdf",
+    "size": "920 KB",
+    "type": "PDF",
+    "date": "1st, Feb 2026"
+  }
+]
